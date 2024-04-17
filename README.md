@@ -65,10 +65,15 @@ plt.show()
 ```
 ## Output:
 - DATASET:
+
 ![Screenshot 2024-04-16 162428](https://github.com/abinayasangeetha/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/119393675/1891e1a2-ac5f-400d-b705-d8b8eb334c85)
+
 - CENTROID AND LABEL VALUES:
+
 ![Screenshot 2024-04-16 162224](https://github.com/abinayasangeetha/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/119393675/bed2bdd2-5195-4cb7-8acf-633ddc2e61ff)
+
 - CLUSTERING:
+
 ![Screenshot 2024-04-16 162233](https://github.com/abinayasangeetha/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/119393675/f5a8a76e-5011-4c49-9655-44e86d2fdc06)
 
 ## Result:
